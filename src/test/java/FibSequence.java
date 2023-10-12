@@ -3,10 +3,30 @@ package test.java;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class Fib {
+import java.util.List;
+import java.util.ArrayList;
+
+public class FibSequence {
+    public List<Integer> generate(int n) {
+        List<Integer> sequence = new ArrayList<>();
+        if (n >= 1) {
+            sequence.add(0);
+        }
+        if (n >= 2) {
+            sequence.add(1);
+        }
+
+        for (int i = 2; i < n; i++) {
+            int next = sequence.get(i - 1) + sequence.get(i - 2);
+            sequence.add(next);
+        }
+
+        return sequence;
+    }
+
     @Test
     public void testGenerateFibonacciSequence() {
-        Fib fib = new Fib();
+        FibSequence fib = new FibSequence();
 
         // Test the generation of the Fibonacci sequence with a limit of 10
         List<Integer> sequence = fib.generate(10);

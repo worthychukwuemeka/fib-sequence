@@ -1,11 +1,11 @@
 package main;
 
-import test.java.Fib;
+import test.java.FibSequence;
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        Fib fib = new Fib();
+        FibSequence fib = new FibSequence();
         int n = 10;
         List<Integer> sequence = fib.generate(n);
 

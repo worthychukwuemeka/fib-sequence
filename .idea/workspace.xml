@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df6ca09e-050d-45a7-926d-23759bf9e2a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp325.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Maths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MathsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="df6ca09e-050d-45a7-926d-23759bf9e2a0" name="Changes" comment="CMP325 fib project, first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +48,31 @@
       <option name="presentableId" value="Default" />
       <updated>1697120766934</updated>
     </task>
+    <task id="LOCAL-00001" summary="CMP325 fib project, first commit">
+      <option name="closed" value="true" />
+      <created>1697124722056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697124722056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CMP325 fib project, first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="CMP325 fib project, first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
