@@ -45,5 +45,11 @@ public class Fib {
         assertEquals(13, (int) sequence.get(7));
         assertEquals(21, (int) sequence.get(8));
         assertEquals(34, (int) sequence.get(9));
+
+        System.out.println("Fibonacci Sequence:");
+        for (int number : sequence) {
+            System.out.print(number + " ");
+        }
+        System.out.println();
     }
 }
