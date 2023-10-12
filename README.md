@@ -28,7 +28,7 @@ This project includes JUnit tests to verify the functionality of the generate me
 1. Open the project in your Java IDE.
 2. Locate the FibTest class (in the test.java package).
 3. Right-click on the testGenerateFibonacciSequence method and select "Run" or "Debug."
-T4. he test will execute, and you will see the results in your IDE's test runner.
+4. The test will execute, and you will see the results in your IDE's test runner.
 
 ## Contributing
 If you'd like to contribute to this project, you can:
@@ -38,7 +38,7 @@ If you'd like to contribute to this project, you can:
 3. Please make sure to follow the established coding style and include test cases for your contributions.
 
 ## Project Screenshot
-![Fibonacci Sequence](https://example.com/path/to/your/image.png)
+![Fibonacci Sequence]([https://drive.google.com/file/d/16FbgvfpvgQMfcvOo-I2wQQ6LdtyJSeU9/view?usp=sharing])
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
