@@ -38,7 +38,7 @@ If you'd like to contribute to this project, you can:
 3. Please make sure to follow the established coding style and include test cases for your contributions.
 
 ## Project Screenshot
-![Fibonacci Sequence](https://drive.google.com/file/d/16FbgvfpvgQMfcvOo-I2wQQ6LdtyJSeU9/view?usp=sharing)
+![Fibonnaci Sequence Code Screenshot]((https://drive.google.com/file/d/16FbgvfpvgQMfcvOo-I2wQQ6LdtyJSeU9/view?usp=drivesdk))
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
