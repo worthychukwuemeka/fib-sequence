@@ -38,7 +38,7 @@ If you'd like to contribute to this project, you can:
 3. Please make sure to follow the established coding style and include test cases for your contributions.
 
 ## Project Screenshot
-![Fibonnaci Sequence Code Screenshot](https://drive.google.com/file/d/16FbgvfpvgQMfcvOo-I2wQQ6LdtyJSeU9/view?usp=drivesdk)
+[assignment-ss.png.pdf](https://github.com/worthychukwuemeka/fibonnaci-sequence/files/12884728/assignment-ss.png.pdf)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
