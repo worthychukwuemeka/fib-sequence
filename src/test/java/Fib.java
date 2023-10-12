@@ -28,13 +28,13 @@ public class Fib {
     public void testGenerateFibonacciSequence() {
         Fib fib = new Fib();
 
-        // Test the generation of the Fibonacci sequence with a limit of 10
+        // Function to test the generation of the Fibonacci sequence with a limit of 10
         List<Integer> sequence = fib.generate(10);
 
-        // Check the size of the generated sequence
+        // Function to check the size of the generated sequence
         assertEquals(10, sequence.size());
 
-        // Check the correctness of the first few numbers in the sequence
+        // Function to check the correctness of the first few numbers in the sequence
         assertEquals(0, (int) sequence.get(0));
         assertEquals(1, (int) sequence.get(1));
         assertEquals(1, (int) sequence.get(2));
