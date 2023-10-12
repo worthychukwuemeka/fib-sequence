@@ -18,7 +18,7 @@ To use or contribute to this project, you will need:
 To get started with this project, you can clone the repository and open it in your favorite Java development environment. Make sure you have the necessary prerequisites installed.
 
 ```bash
-git clone https://github.com/worthychukwuemeka/fib-sequence.git
+git clone https://github.com/worthychukwuemeka/fibonnaci-sequence.git
 cd fibonacci-sequence
 ```
 
