@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 import java.util.List;
 import java.util.ArrayList;
 
-public class FibSequence {
+public class Fib {
     public List<Integer> generate(int n) {
         List<Integer> sequence = new ArrayList<>();
         if (n >= 1) {
@@ -26,7 +26,7 @@ public class FibSequence {
 
     @Test
     public void testGenerateFibonacciSequence() {
-        FibSequence fib = new FibSequence();
+        Fib fib = new Fib();
 
         // Test the generation of the Fibonacci sequence with a limit of 10
         List<Integer> sequence = fib.generate(10);
